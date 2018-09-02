@@ -1,0 +1,10 @@
+package com;
+
+public class mengtekaluo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
